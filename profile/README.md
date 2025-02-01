@@ -1,6 +1,6 @@
 # 2035 Rockin Bots
 
-Rockin Bots is a roboitcs team based in Carmel Califonia out of Carmel High School
+Rockin Bots is a FRC roboitcs team based in Carmel Califonia out of Carmel High School
 
 To learn more, view our website here:
 [2035.rocks](https://2035.rocks)
